@@ -1,2 +1,2 @@
 # DeepMovement
-Deep learning of MOViE files for Management of ENdovascular Thrombectomy
+**D**eep learning of **MOViE** files for **M**anagement of **EN**dovascular **T**hrombectomy
